@@ -8,7 +8,7 @@ A simple, fast, and responsive QR Code Generator built using HTML, CSS, and Java
 Generate customizable QR codes instantly and download them in seconds.
 
 
-# **🚀 Features**
+## **🚀 Features**
 
 * ⚡ Instant QR Code generation
 
@@ -33,7 +33,7 @@ Generate customizable QR codes instantly and download them in seconds.
 * 🔒 No login required
 
 
-# **🛠 Tech Stack**
+## **🛠 Tech Stack**
 
 * HTML5 – Structure
 
@@ -44,7 +44,7 @@ Generate customizable QR codes instantly and download them in seconds.
 * Vercel – Deployment
 
 
-# **📂 Project Structure** 
+## **📂 Project Structure** 
 
     qr-code-generator-babusaheb/
     │
@@ -52,7 +52,7 @@ Generate customizable QR codes instantly and download them in seconds.
     ├── style.css
     ├── script.js
     └── assets/
-# 🧠 How It Works
+## 🧠 How It Works
 1. User enters text or URL.
 
 2. JavaScript generates QR code dynamically.
@@ -61,7 +61,7 @@ Generate customizable QR codes instantly and download them in seconds.
 
 4. User can download the generated QR image.
 
-# 🎯 Use Cases
+## 🎯 Use Cases
 * Business cards
 
 * Event promotions
@@ -73,7 +73,7 @@ Generate customizable QR codes instantly and download them in seconds.
 * Product packaging
 
 * Educational projects
-# 🌟 Future Improvements
+## 🌟 Future Improvements
 * Add logo inside QR code
 
 * Add dark mode
