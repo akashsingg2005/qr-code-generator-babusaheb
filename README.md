@@ -1,46 +1,89 @@
-# QR-Code-Generator
+# 📱 QR Code Generator
 
-📱 QR Code Generator
+**🔗 Live Website:** https://qr-code-generator-babusaheb.vercel.app/
 
-🔗 Live Website: https://qr-code-generator-babusaheb.vercel.app/
-
-📂 Repository: https://github.com/akashsingg2005/qr-code-generator-babusaheb
+**📂 Repository:** https://github.com/akashsingg2005/qr-code-generator-babusaheb
 
 A simple, fast, and responsive QR Code Generator built using HTML, CSS, and JavaScript.
 Generate customizable QR codes instantly and download them in seconds.
 
-🚀 Features
 
-⚡ Instant QR Code generation
+# **🚀 Features**
 
-🌐 Generate QR for:
+* ⚡ Instant QR Code generation
 
-  Website URLs
+* 🌐 Generate QR for:
 
-  Text
+  - Website URLs
 
-  Email
+  * Text
 
-  Phone numbers
+  * Email
 
-  WiFi
+  * Phone numbers
 
-🎨 Custom foreground & background colors
+  * WiFi
 
-📏 Adjustable QR size
+* 🎨 Custom foreground & background colors
 
-🖼 Download QR code as Image
+* 🖼 Download QR code as Image
 
-📱 Fully Responsive Design
+* 📱 Fully Responsive Design
 
-🔒 No login required
+* 🔒 No login required
 
-🛠 Tech Stack
 
-HTML5 – Structure
+# **🛠 Tech Stack**
 
-CSS3 – Styling & Responsive Layout
+* HTML5 – Structure
 
-JavaScript (Vanilla JS) – QR Generation Logic
+* CSS3 – Styling & Responsive Layout
 
-Vercel – Deployment
+* JavaScript (Vanilla JS) – QR Generation Logic
+
+* Vercel – Deployment
+
+
+# **📂 Project Structure** 
+
+    qr-code-generator-babusaheb/
+    │
+    ├── index.html
+    ├── style.css
+    ├── script.js
+    └── assets/
+# 🧠 How It Works
+1. User enters text or URL.
+
+2. JavaScript generates QR code dynamically.
+
+3. QR code is displayed instantly.
+
+4. User can download the generated QR image.
+
+# 🎯 Use Cases
+* Business cards
+
+* Event promotions
+
+* WiFi sharing
+
+* Marketing campaigns
+
+* Product packaging
+
+* Educational projects
+# 🌟 Future Improvements
+* Add logo inside QR code
+
+* Add dark mode
+* Adjustable QR size
+
+* Add gradient support
+
+* Add dynamic QR codes
+
+* Add copy-to-clipboard feature
+
+* Add QR history
+  
