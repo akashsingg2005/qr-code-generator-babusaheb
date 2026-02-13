@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>QR Code Generator (Team BabuSaheb)</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark">
+
+<div class="background"></div>
+
+<div class="container">
+    <div class="top-bar">
+        <h2>⚡ Neon QR Generator</h2>
+        <button id="themeToggle">🌙</button>
+    </div>
+
+    <input type="text" id="qrText" placeholder="Enter text or URL">
+
+    <button id="generateBtn" class="primary-btn">
+        Generate QR
+    </button>
+
+    <div id="qrImage">
+        <img id="qrCode">
+        <button id="downloadBtn" class="secondary-btn">
+            Download QR
+        </button>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
