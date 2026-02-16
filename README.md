@@ -86,4 +86,14 @@ Generate customizable QR codes instantly and download them in seconds.
 * Add copy-to-clipboard feature
 
 * Add QR history
-  
+
+## 📸 App Preview:-
+### 💻 Desktop View:
+<img width="1920" height="1080" alt="Screenshot 2026-02-13 184740" src="https://github.com/user-attachments/assets/19436608-57e3-4095-9b35-5cb0218a3798" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-13 184635" src="https://github.com/user-attachments/assets/d93d9765-d839-4453-b19a-62ffef346e41" />
+
+### 📱 Mobile View:
+
+![mobile view](https://github.com/user-attachments/assets/67e0734a-a9ce-4568-8b45-7f7fd28f013a)
+
